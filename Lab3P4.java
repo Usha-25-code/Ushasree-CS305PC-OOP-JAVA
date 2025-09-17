@@ -17,7 +17,8 @@ class Lab3P4{
 	public void show( String s){
 		System.out.println("Method with string params:"+s);
 	}
-public void show(int x,String s){
+   public void show(int x,String s){
 		System.out.println("Method with two  params int and string:"+x+" "+s);
 	}
+
 }
