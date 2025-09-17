@@ -1,50 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 import java.util.Scanner;
 class Lab3P3{
 	public static void main(String...args){
@@ -73,6 +27,7 @@ class Lab3P3{
 		}while(i<n);
        }
 }
+
 
 
 
