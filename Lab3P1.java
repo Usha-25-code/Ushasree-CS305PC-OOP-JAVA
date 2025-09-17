@@ -1,50 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 import java.util.Scanner;
 class Lab3P1{
 	public static void main(String...args){
@@ -71,6 +25,7 @@ class Lab3P1{
 		}
        }
 }
+
 
 
 
