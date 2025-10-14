@@ -22,9 +22,11 @@ class Lab2P1{
 				break;
 			case "~":
 				System.out.println("Unary:"+ (~a));
-			default:
+                break;
+            default:
 				System.out.println(enter correct unary operator);
 				break;
 		}
 	}
+
 }
